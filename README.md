@@ -1,5 +1,5 @@
 # site-ffkbucgn
-Gluon Site Config Directory for Hood CGN
+Gluon Site Config Directory for Hood Koeln
 
 Check Branches for different Gluon Releases.
 
